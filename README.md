@@ -103,7 +103,8 @@ else:
 
 ```
 ## Sample Input and Output
-![image](https://github.com/harshiniyu/Search-Algorithms/assets/144979786/213b8c6e-38ad-4c5a-8e4b-4da078b322f5)
+![image](https://github.com/harshiniyu/Search-Algorithms/assets/144979786/0785f944-5436-41e3-a565-91249541354d)
+
 
 
 ![image](https://github.com/harshiniyu/Search-Algorithms/assets/144979786/22884689-3707-4302-9e11-fc4bc85170d7)
